@@ -1,0 +1,4 @@
+com/matheusgoes23/appsorteador/MainActivity.java
+ com.matheusgoes23.appsorteador.MainActivity
+com/matheusgoes23/appsorteador/BuildConfig.java
+ com.matheusgoes23.appsorteador.BuildConfig
